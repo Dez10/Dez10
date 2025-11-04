@@ -7,9 +7,9 @@ Frontend Developer
 I've been learning to code for a little over two years now. I started with HTML and CSS and have since been in a constant flow of learning more and more. I have a passion for front end development and have also been educating myself on some very basic backend development as well. I am always looking for new and innovative ways to apply what I've learned and look forward to what the future of Frontend Development holds for me.
 
 * 🌍  I'm based in USA
-* 🖥️  See my portfolio at [MyPortfolio](http://dez10.github.io/DestinPortfolio/)
+* 🖥️  See my portfolio at [MyPortfolio](destinstrong.tech)
 * ✉️  You can contact me at [destinastrong@gmail.com](mailto:destinastrong@gmail.com)
-* 🧠  I'm currently learning Next.js and Tailwind
+* 🧠  I'm currently learning Next.js and Tailwind along with some backend such as Firebase and Supabase. 
 * 👥  I'm looking to collaborate on innovative and creative projects
 
 <p align="left">
